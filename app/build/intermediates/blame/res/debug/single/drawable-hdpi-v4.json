@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Android\\workspace\\Weather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh.png",
+        "source": "D:\\Android\\workspace\\Weather\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Weather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qing.png",
+        "source": "D:\\Android\\workspace\\Weather\\app\\src\\main\\res\\drawable-hdpi\\qing.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Weather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home.png",
+        "source": "D:\\Android\\workspace\\Weather\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Weather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xue.png",
+        "source": "D:\\Android\\workspace\\Weather\\app\\src\\main\\res\\drawable-hdpi\\xue.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Weather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yu.png",
+        "source": "D:\\Android\\workspace\\Weather\\app\\src\\main\\res\\drawable-hdpi\\yu.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Weather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "D:\\Android\\workspace\\Weather\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Weather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\duoyun.png",
+        "source": "D:\\Android\\workspace\\Weather\\app\\src\\main\\res\\drawable-hdpi\\duoyun.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Weather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yin.png",
+        "source": "D:\\Android\\workspace\\Weather\\app\\src\\main\\res\\drawable-hdpi\\yin.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Weather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lolo.png",
+        "source": "D:\\Android\\workspace\\Weather\\app\\src\\main\\res\\drawable-hdpi\\lolo.png"
+    },
+    {
+        "merged": "D:\\Android\\workspace\\Weather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\workspace\\Weather\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
